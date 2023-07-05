@@ -1,0 +1,7 @@
+Como fazer as migrações:
+
+dotnet tool install --global dotnet-ef --version 6.0.13
+
+dentro do projeto infra:
+    dotnet ef --startup-project ../TodoTopado.Api/ migrations add myMigration01
+    dotnet ef database update --startup-project ../TodoTopado.Api/ --project ../TodoTopado.Infra

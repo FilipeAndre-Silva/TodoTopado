@@ -1,0 +1,12 @@
+C:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Domain\bin\Debug\net6.0\TodoTopado.Domain.deps.json
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Domain\bin\Debug\net6.0\TodoTopado.Domain.dll
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Domain\bin\Debug\net6.0\TodoTopado.Domain.pdb
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Domain\obj\Debug\net6.0\TodoTopado.Domain.csproj.AssemblyReference.cache
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Domain\obj\Debug\net6.0\TodoTopado.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Domain\obj\Debug\net6.0\TodoTopado.Domain.AssemblyInfoInputs.cache
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Domain\obj\Debug\net6.0\TodoTopado.Domain.AssemblyInfo.cs
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Domain\obj\Debug\net6.0\TodoTopado.Domain.csproj.CoreCompileInputs.cache
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Domain\obj\Debug\net6.0\TodoTopado.Domain.dll
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Domain\obj\Debug\net6.0\refint\TodoTopado.Domain.dll
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Domain\obj\Debug\net6.0\TodoTopado.Domain.pdb
+C:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Domain\obj\Debug\net6.0\ref\TodoTopado.Domain.dll

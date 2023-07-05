@@ -1,0 +1,17 @@
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Application\bin\Debug\net6.0\TodoTopado.Application.deps.json
+C:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Application\bin\Debug\net6.0\TodoTopado.Application.dll
+C:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Application\bin\Debug\net6.0\TodoTopado.Application.pdb
+C:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Application\bin\Debug\net6.0\TodoTopado.Domain.dll
+C:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Application\bin\Debug\net6.0\TodoTopado.Infra.dll
+C:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Application\bin\Debug\net6.0\TodoTopado.Domain.pdb
+C:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Application\bin\Debug\net6.0\TodoTopado.Infra.pdb
+C:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Application\obj\Debug\net6.0\TodoTopado.Application.csproj.AssemblyReference.cache
+C:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Application\obj\Debug\net6.0\TodoTopado.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Application\obj\Debug\net6.0\TodoTopado.Application.AssemblyInfoInputs.cache
+C:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Application\obj\Debug\net6.0\TodoTopado.Application.AssemblyInfo.cs
+C:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Application\obj\Debug\net6.0\TodoTopado.Application.csproj.CoreCompileInputs.cache
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Application\obj\Debug\net6.0\TodoTopado.Application.csproj.CopyComplete
+C:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Application\obj\Debug\net6.0\TodoTopado.Application.dll
+C:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Application\obj\Debug\net6.0\refint\TodoTopado.Application.dll
+C:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Application\obj\Debug\net6.0\TodoTopado.Application.pdb
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Application\obj\Debug\net6.0\ref\TodoTopado.Application.dll

@@ -1,0 +1,17 @@
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Infra\bin\Debug\net6.0\TodoTopado.Infra.deps.json
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Infra\bin\Debug\net6.0\TodoTopado.Infra.runtimeconfig.json
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Infra\bin\Debug\net6.0\TodoTopado.Infra.dll
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Infra\bin\Debug\net6.0\TodoTopado.Infra.pdb
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Infra\bin\Debug\net6.0\TodoTopado.Domain.dll
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Infra\bin\Debug\net6.0\TodoTopado.Domain.pdb
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Infra\obj\Debug\net6.0\TodoTopado.Infra.csproj.AssemblyReference.cache
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Infra\obj\Debug\net6.0\TodoTopado.Infra.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Infra\obj\Debug\net6.0\TodoTopado.Infra.AssemblyInfoInputs.cache
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Infra\obj\Debug\net6.0\TodoTopado.Infra.AssemblyInfo.cs
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Infra\obj\Debug\net6.0\TodoTopado.Infra.csproj.CoreCompileInputs.cache
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Infra\obj\Debug\net6.0\TodoTopado.Infra.csproj.CopyComplete
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Infra\obj\Debug\net6.0\TodoTopado.Infra.dll
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Infra\obj\Debug\net6.0\refint\TodoTopado.Infra.dll
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Infra\obj\Debug\net6.0\TodoTopado.Infra.pdb
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Infra\obj\Debug\net6.0\TodoTopado.Infra.genruntimeconfig.cache
+c:\Users\filipe.andre\My Workspace\TodoTopado\TodoTopado.Infra\obj\Debug\net6.0\ref\TodoTopado.Infra.dll
